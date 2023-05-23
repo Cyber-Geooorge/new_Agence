@@ -1,6 +1,6 @@
 
 # GitHub Pages du site disponible ici :
-##  https://lioneldiot.github.io/
+##  https://github.com/Cyber-Geooorge
 ## il faut tout de même strapi qui tourne en local pour marcher !
 
 # Getting Started with Create React App
